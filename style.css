@@ -1,0 +1,22 @@
+h1{
+    color:black
+}
+*{
+    border: solid;
+}
+
+ .header{
+     background-color: aquamarine;
+     display:flex;
+     justify-content: space-between;
+ }
+
+ .pic{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+ }
+
+  p,h2{
+      text-align: center;
+  }
